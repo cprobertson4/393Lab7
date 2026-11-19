@@ -1,4 +1,5 @@
-var data = {
+var data = 
+{
     "type": "FeatureCollection",
     "features": [
         {
